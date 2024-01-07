@@ -1,2 +1,2 @@
-# My-Data-Projects
-Curated showcase of my data analysis and research projects, highlighting a diverse toolkit and proficiency in data-driven insights and storytelling
+# 📈 My Data Projects
+Welcome to my curated showcase! Here, you'll find a variety of data analysis and research projects, each reflecting my commitment to transforming data into impactful narratives and effective data communication. 
