@@ -3,7 +3,7 @@ Welcome to my curated showcase! Here, you'll find a variety of data analysis and
 
 ## 📚 Table of Contents
 - [Python](#python)
-- [Power BI] (#power-bi) 
+- [Power BI](#power-bi)
 
 ## Python
 | Project Link | Tools | Project Description |
