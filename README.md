@@ -4,6 +4,7 @@ Welcome to my curated showcase! Here, you'll find a variety of data analysis and
 ## 📚 Table of Contents
 - [Python](#python)
 - [Power BI](#power-bi)
+- [SQL](#sql)
 
 ## Python
 | Project Link | Tools | Project Description |
@@ -14,3 +15,8 @@ Welcome to my curated showcase! Here, you'll find a variety of data analysis and
 | Project Link | Tools | Project Description |
 |--------------|-------|---------------------|
 | 💲 [Superstore Sales Snapshot: Uncovering Retail Dynamics](https://github.com/Sarah7x/Superstore-Sales-Snapshot) | Power BI Desktop, DAX, Power Query | Diving into retail analytics, this Power BI dashboard offers a visual exploration of sales, profitability, and consumer trends across a national superstore chain's data, spanning multiple categories and states. | 
+
+## SQL
+| Project Link | Tools | Project Description |
+|--------------|-------|---------------------|
+| 🩸 [SQL-Driven Blood Bank Management System](https://github.com/Sarah7x/SQL-Driven-Blood-Bank-Management-System) | MySQL, phpMyAdmin | This project develops a comprehensive Blood Bank Management System (BBMS) using SQL. It involves creating a database schema, formulating complex queries for data analysis, and implementing best practices in database management to improve blood donation and distribution operations. | 
